@@ -1,0 +1,6 @@
+{
+  "port" : 5000,
+  "jwtSecret": "LastJonPass",
+  "mongoUri": "mongodb+srv://LastJon:1453Tula@cluster0-j3va6.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseURL": "http://localhost:5000"
+}
